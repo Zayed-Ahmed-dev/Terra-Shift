@@ -162,6 +162,14 @@ Terra Shift follows a structured data pipeline:
 4. **Dataset Analysis:** Explore distributions, correlations, missing values, and historical changes.
 5. **Model Training:** Train and compare different machine learning algorithms.
 
+### Data Cleaning Workflow
+
+Before using the collected data for analysis and modelling, it goes through a cleaning and validation process.
+
+The following diagram illustrates how the raw Census data is processed, how inconsistencies and unusual records are examined, and how the cleaned dataset is prepared for further analysis.
+
+![Terra Shift Data Cleaning Workflow](workflow.png)
+
 ## Current Development Status
 
 - [x] Initial project structure
