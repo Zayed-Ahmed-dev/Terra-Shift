@@ -168,7 +168,7 @@ Before using the collected data for analysis and modelling, it goes through a cl
 
 The following diagram illustrates how the raw Census data is processed, how inconsistencies and unusual records are examined, and how the cleaned dataset is prepared for further analysis.
 
-![Terra Shift Data Cleaning Workflow](workflow.png)
+![Terra Shift Data Cleaning Workflow](<Terra Shift_ Clean Data Workflow.png>)
 
 ## Current Development Status
 
